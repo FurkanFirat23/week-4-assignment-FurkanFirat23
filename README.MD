@@ -4,6 +4,10 @@ Hafta 4 2. gün ödevleri
 - en az 3 sayfa
 - ve 404 sayfası
 - toplam en az 4 sayfa.
+- context kullanarak tema yapımı
+- dark | ligth theme
+- aktif tema header'da gösterilsin
+- sayfa içeriği temaya göre renklensin.
 
 Hafta 4 2. gün Araştırma Ödevleri
 
